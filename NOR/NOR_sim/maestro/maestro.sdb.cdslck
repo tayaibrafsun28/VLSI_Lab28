@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user_13
+HostName                       vlsicad
+ProcessIdentifier              3919300
+ProcessCreationTime_UTC        1787830785
+ProcessCreationTime_Readable   Thu Aug 27 07:39:45 2026 EDT
+AppIdentifier                  /home/cadence/lnx/ic_25/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/user_13/rafsun28/NOR_sim/maestro/maestro.sdb
+TimeEditLocked                 Thu Aug 27 07:48:37 2026 EDT
